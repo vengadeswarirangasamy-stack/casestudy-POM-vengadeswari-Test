@@ -1,0 +1,31 @@
+{
+"items" :
+[
+{
+"name": "Blue Top",
+"productId": "1"
+
+},
+{
+    "name" : "Sleeveless Dress",
+    "productId": "3"
+},
+{
+    "name" : "Stylish Dress",
+    "productId": "4"
+}
+],
+
+"payment" : {
+ "nameOnCard": "Venki",
+ "cardNumber" : "123456789123",
+ "cvc": "311",
+ "expiryMonth": "23",
+ "expiryYear": "1234"
+
+
+}
+}
+
+
+
